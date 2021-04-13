@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [OgeeSwap Intro](introduction.md)
 * [Token Tokenomics](token-tokenomics.md)
 * [Connecting Wallet](connecting-wallet.md)
 * [Yield Farms](yield-farms.md)

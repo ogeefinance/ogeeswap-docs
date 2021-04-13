@@ -15,7 +15,7 @@ It's also got Ogee Yield Token (OYT).
 ## Features
 
 ### AMM DEX
-The exchange is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Huobi ECO Chain.. Just connect and swap.
+The exchange is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Huobi ECO Chain. Just connect and swap.
 
 ### Yield Farm
 Farming made exciting again with high returns and high APR. You can earn OYT and many others with yield farms, earn OYT with Staking, and earn even more tokens.
@@ -26,8 +26,6 @@ Analytics is a powerful tool that allows anyone to easily check the smart contra
 ### IDO: Initial DeFi Offering
 Initial DeFi Offering is your doorway for potential upcoming projects. Finding new gems is easier than ever.
 
-### Transaction Burn
-Every Ogee Yield Token (OYT) transaction 1% tokens will be burned.
 
 ## Why Huobi ECO Chain (HECO)?
 
